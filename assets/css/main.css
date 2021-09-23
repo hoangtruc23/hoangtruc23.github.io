@@ -61,7 +61,8 @@ a {
 .showcase {
   width: 100%;
   height: 400px;
-  background: url(assets/img/showcase.png) no-repeat center / cover;
+  background: url("https://by3301files.storage.live.com/y4mDAxC13wI-pxbkcuI2VeqKHKyDkL0moHfSH50G9EUN-vrzI9N1UECi7KY5chBbQW0IizDphptebAou4F0KaNvxYlUDo1DlL38ncC1G9jqtgGpW6ETBfQSZ9jw5Kr51zfHR77hxAh2l2CVqlNZHR7IdXxEOslhnGOIDZeCZDZvKJT6t9V-pr40Pdfw6JnHNi79?width=1280&height=480&cropmode=none")
+    no-repeat center / cover;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -123,7 +124,8 @@ a {
 
 /* xbox */
 .xbox {
-  background: url(assets/img/zyro-image.png) no-repeat center/cover;
+  background: url("https://by3301files.storage.live.com/y4mCzKLFsQSfTj1tcJeS-o5JfkoWakV68UV4xd-rlWDIkD9CesxZQjvwZ3Hk4gRAP0EGkQzEwC0WDsMTqIqxwXfPjHQFX4fOQBkY-FfILEmbxRrqvbsE_EPGu6ACie7FeiYhG7blwcCJx28lKjJ4v_pI2ZxaIyaWwn6zzQQ87QdGUdttoZ4WaTnuUCduxqkt9IS?width=1280&height=480&cropmode=none")
+    no-repeat center/cover;
   height: 350px;
   width: 100%;
   margin-bottom: 20px;
@@ -141,7 +143,8 @@ a {
 /* carbon */
 
 .carbon {
-  background: url(assets/img/carbon.png) no-repeat center/cover;
+  background: url("https://by3301files.storage.live.com/y4m4LHIibGwEdnojLbF9fWtqiVyNdSewTu640_96izNcBWkdMwBReRwBMBDmDirHyF4lmDCIiS1frL6bAShz8RY12Rpht_KUHfNRuNAWFRu1A9O_by_5uvcmmAQpJ0LYEDmEj8h7L709Q0uhN5Jo8pncaCnP6-8cioDHKSp80JOUhAhxmF6A1JYP1ehaWXOq3Md?width=1280&height=480&cropmode=none")
+    no-repeat center/cover;
   height: 350px;
   color: #fff;
   align-items: center;
